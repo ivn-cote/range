@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "babel-eslint": "^6.1.2",
-    "eslint": "^2.13.1",
     "react-scripts": "0.7.0"
   },
   "dependencies": {
